@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "766348315735",
+    "project_id": "adakami-1efba",
+    "storage_bucket": "adakami-1efba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766348315735:android:48478b4331236ed1052712",
+        "android_client_info": {
+          "package_name": "com.adakami.adakami"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766348315735-np67b5cqou3ulgrl315ohjsaabt5pefe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adakami.adakami",
+            "certificate_hash": "5b996876eb2eea23f735acd90dfcd3411a26cb46"
+          }
+        },
+        {
+          "client_id": "766348315735-hknbb6v0snrg9hbp4l7p8e0mi770lr0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChsrZr542tIt3iAkOR_I1vfexvtSC23-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766348315735-hknbb6v0snrg9hbp4l7p8e0mi770lr0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
